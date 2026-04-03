@@ -1,4 +1,4 @@
-# WARNING: THIS IS APRIL FOOLS.
+# WARNING: THIS IS (maybe) NOT APRIL FOOLS.
 
 ## Windows 12
 Windows 12.
