@@ -1,5 +1,5 @@
 ## Windows 12
-Windows 12.
+Unoffical Windows 12.
 
 ## Recommended Setup:
 1GB of RAM.
