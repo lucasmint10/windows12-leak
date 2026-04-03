@@ -14,7 +14,7 @@ int main(void){
 	printf("5) Log out\n");
 	scanf("%d", &opt);
 	if(opt==1){
-		system("start cmd.exe");
+		system("start cmd.exe /k cls");
 		main();
 	} else if (opt == 2) {
 		system("start sysdm.cpl");
