@@ -1,8 +1,8 @@
-## Windows 12
+## Windows 12 LEAK
 Unofficial Windows 12.
 
 ## Recommended Setup:
-1GB of RAM.
+512MB of RAM.
 
 Windows 10 and above.
 
